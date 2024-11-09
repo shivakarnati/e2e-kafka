@@ -90,3 +90,10 @@ This project demonstrates an end-to-end data pipeline using **Apache Kafka** for
    git clone https://github.com/yourusername/kafka-aws-etl-projects.git
    cd kafka-aws-etl-projects
    ```
+2. **Set Up AWS Services**:
+
+    - Configure Amazon S3 buckets for data storage.
+    - Create AWS Glue Crawlers to catalog data in S3.
+    - Set up AWS Glue Jobs for data transformation.
+    - Configure Amazon Athena for querying data.
+    - Set up QuickSight for visualization
